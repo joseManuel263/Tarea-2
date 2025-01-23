@@ -1,0 +1,14 @@
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/bin/Debug/net8.0/Partidos
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/bin/Debug/net8.0/Partidos.deps.json
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/bin/Debug/net8.0/Partidos.runtimeconfig.json
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/bin/Debug/net8.0/Partidos.dll
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/bin/Debug/net8.0/Partidos.pdb
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.GeneratedMSBuildEditorConfig.editorconfig
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.AssemblyInfoInputs.cache
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.AssemblyInfo.cs
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.csproj.CoreCompileInputs.cache
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.dll
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/refint/Partidos.dll
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.pdb
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/Partidos.genruntimeconfig.cache
+/home/hibi/Documents/C#/8vo cuatrimestre/claseSistemas/Partidos/obj/Debug/net8.0/ref/Partidos.dll
